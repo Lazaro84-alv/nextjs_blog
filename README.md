@@ -1,3 +1,9 @@
+Desafio de código 5 - Criando o seu Blog pessoal com Next.js
+Plataforma DIO
+
+ministrado por Pablo Henrique
+
+
 ![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
